@@ -1,6 +1,4 @@
-![MasterHead](https://developer.apple.com/news/images/og/apple-developer-og.png)
 <h1 align="center">Hi 👋, I'm Ali Eren</h1>
-<h3 align="center">A passionate IOS developer from Turkey</h3>
 
 - How to reach me **aliernats@gmail.com**
 
